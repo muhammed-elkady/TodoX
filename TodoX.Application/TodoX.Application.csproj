@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TodoX.Domain\TodoX.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
